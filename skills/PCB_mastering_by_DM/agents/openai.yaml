@@ -1,0 +1,4 @@
+interface:
+  display_name: "PCB_mastering_by_DM"
+  short_description: "Схемы и платы DM с проверкой решений и источников"
+  default_prompt: "Примени $PCB_mastering_by_DM к схеме и плате: учти правила DM, действующий профиль проекта и доказательства изменений."

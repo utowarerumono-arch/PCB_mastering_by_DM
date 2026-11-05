@@ -2,6 +2,8 @@
 
 [Русский](README.md) · English
 
+**[Download the v2.1.1 ZIP](https://github.com/utowarerumono-arch/PCB_mastering_by_DM/releases/download/v2.1.1/pcb-mastering-by-dm-v2.1.1-public.zip)**
+
 This Codex skill helps review and format electronic schematics, compare design revisions, and verify PCB changes. It supports KiCad workflows and can review Altium designs through an available editor or documented exports.
 
 The skill grew out of the work of **Dmitry Maksimovich, the technical lead for the engineering workstream**. His schematics, board layouts, and review comments provided the basis for comparison. Dmitry Maksimovich personally corrected the errors found during the work. His reviews and subsequent test runs informed changes to the instructions and added checks to catch similar omissions in later revisions.
